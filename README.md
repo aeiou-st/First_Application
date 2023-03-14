@@ -34,6 +34,8 @@ Describe how to use the app, including any relevant instructions or user guides.
 
 ## Screenshots
 
+![Screenshot 1]([https://i.imgur.com/ABC123.png](https://github.com/Mujammil-ios/status_downloader/blob/master/ScreenShots/Screenshot_20220507_075046.png))
+
 Include screenshots of the app to showcase its design and functionality.
 
 ## Contributing
